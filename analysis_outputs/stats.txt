@@ -1,0 +1,15 @@
+Quantity Stats:
+{'mean': 11.46, 'median': 3.0, 'mode': 1, 'std_dev': 58.87, 'min': 1, 'max': 2880, 'range': 2879}
+
+Unit Price Stats:
+{'mean': 3.79, 'median': 2.51, 'mode': 1.25, 'std_dev': 13.31, 'min': 0.1, 'max': 607.49, 'range': 607.39}
+
+Revenue Stats:
+{'mean': 21.16, 'median': 10.2, 'mode': 15.0, 'std_dev': 62.38, 'min': 0.29, 'max': 1627.2, 'range': 1626.91}
+
+Most Common Country:
+United Kingdom
+
+Return Rate (%):
+1.4
+
