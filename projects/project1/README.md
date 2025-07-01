@@ -30,15 +30,25 @@ Our company is expanding into the aviation market and needs data-driven guidance
 
 ## Repository Structure  
 ├─ data/
+
 │ ├─ AviationData.csv
+
 │ └─ USState_Codes.csv
+
 |─Interactive_Dashboard
+
 ├─final_analysis.ipynb
+
 ├─ visuals/
+
 │ ├─ lowest_risk_models.png
+
 │ └─ … other chart images …
+
 ├─presentation.pdf
+
 ├─ .gitignore
+
 └─ README.md
 
 ## How to Reproduce  
